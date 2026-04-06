@@ -1,1 +1,36 @@
-{"annotations":[],"set":"Default","event_id":"d8e4ece2-066e-4d51-a0cf-433a5e224e8e","source_id":"75b61946-f898-4e29-bb07-32091203af8f"}
+{
+  "annotations": [
+    {
+      "start_time": 120,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "introduction to the 'geeky guy' archetype in Hollywood and TV"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "masculinities",
+          "tag": "hegemonic"
+        },
+        {
+          "category": "tech",
+          "tag": "nerd culture"
+        },
+        {
+          "category": "tech",
+          "tag": "tech culture"
+        }
+      ],
+      "uuid": "96f4cbbb-5d3b-49c5-8d9e-be620b97862d"
+    }
+  ],
+  "set": "Default",
+  "event_id": "d8e4ece2-066e-4d51-a0cf-433a5e224e8e",
+  "source_id": "75b61946-f898-4e29-bb07-32091203af8f"
+}
