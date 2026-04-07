@@ -28,6 +28,22 @@
         }
       ],
       "uuid": "96f4cbbb-5d3b-49c5-8d9e-be620b97862d"
+    },
+    {
+      "start_time": 278,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How is this behaviour actually being framed by the narrative though? Often, it is supposed to be seen as their 'right' or something that they are entitled to, for being considered nerds by their peers"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d4a8054e-5648-418d-b9bc-46968e23a456"
     }
   ],
   "set": "Default",
