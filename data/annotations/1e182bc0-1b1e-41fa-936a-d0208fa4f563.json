@@ -44,6 +44,22 @@
       ],
       "tags": [],
       "uuid": "d4a8054e-5648-418d-b9bc-46968e23a456"
+    },
+    {
+      "start_time": 345,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the 'adorkable' framing of these acts is used by the narrative to obstruct the ways in which they are engaging in toxic and inappropriate behaviours"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1f3a8be0-be91-4f1b-9fd7-53a23e5c247e"
     }
   ],
   "set": "Default",
