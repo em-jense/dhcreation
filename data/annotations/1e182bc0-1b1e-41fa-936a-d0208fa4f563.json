@@ -60,6 +60,22 @@
       ],
       "tags": [],
       "uuid": "1f3a8be0-be91-4f1b-9fd7-53a23e5c247e"
+    },
+    {
+      "start_time": 390,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "which kind of sub-archetype Howard fits into -- 'pervert with a heart of gold'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4f797ab7-8599-451a-b777-227e77c37594"
     }
   ],
   "set": "Default",
